@@ -46,9 +46,7 @@ Script em **Python + Selenium** que baixa automaticamente os **materiais digitai
 - An account with access to the site (you log in yourself, manually, in Chrome, using gov.br).
 
 
-#### 🇺🇸 Full MIT License Text
-
-text
+#### 🇺🇸
 
 MIT License
 
@@ -72,11 +70,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Use code with caution.
-
-#### 🇧🇷 Texto Completo da Licença MIT
-
-text
+#### 🇧🇷 
 
 Licença MIT
 
@@ -99,5 +93,3 @@ TITULARES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO
 DANOS OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO DE CONTRATO, ILÍCITO OU DE OUTRA
 FORMA, DECORRENTE DE, FORA OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS
 NEGOCIAÇÕES NO SOFTWARE.
-
-Use code with caution.
